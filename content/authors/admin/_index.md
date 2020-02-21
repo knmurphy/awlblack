@@ -58,4 +58,4 @@ email: "k.n.murphy@gmail.com"
 #- Visitors
 ---
 
-Kevin Neil Murphy is the [coolest shower curtain](awl.black/shop) artist among other things. 
+Kevin Neil Murphy is the [coolest shower curtain](/shop) artist among other things. 
