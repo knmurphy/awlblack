@@ -3,7 +3,6 @@ title: Example of my work
 date: 2020-02-21T02:51:01.961Z
 subtitle: It's great getting so far
 summary: |-
-  ## The Best part of a new time
 
   Neat! We've got a post. 
 draft: false
